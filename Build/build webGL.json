@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "cvika unity",
+"productVersion": "0.1",
+"dataUrl": "build webGL.data.unityweb",
+"wasmCodeUrl": "build webGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "build webGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
